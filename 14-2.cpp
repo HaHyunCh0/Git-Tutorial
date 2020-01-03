@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+/////이것은 기본///// 
 typedef struct edge{
 	int origin;
 	int destination;
